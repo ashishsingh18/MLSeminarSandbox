@@ -15,6 +15,12 @@ def subtract2Numbers(num1, num2)
 def add2Numbers(num1,num2):
 	result = num1 + num2
 	print("addition result: ", result)
+
+def increaseNumber(num1):
+	result = num1 + 1
+	print("increased result: ", result)
+
+
 	
 def multiply2Numbers(num1, num2)
     result = num1 * num2
