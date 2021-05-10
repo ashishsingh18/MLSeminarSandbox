@@ -16,4 +16,8 @@ def add2Numbers(num1,num2):
 	result = num1 + num2
 	print("addition result: ", result)
 	
+def multiply2Numbers(num1, num2)
+    result = num1 * num2
+    print('result is:', result)
+
 #print("hello world")
