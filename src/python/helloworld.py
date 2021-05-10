@@ -21,4 +21,9 @@ def increaseNumber(num1):
 	print("increased result: ", result)
 
 
+	
+def multiply2Numbers(num1, num2)
+    result = num1 * num2
+    print('result is:', result)
+
 #print("hello world")
