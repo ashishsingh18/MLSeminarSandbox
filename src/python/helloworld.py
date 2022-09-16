@@ -26,4 +26,8 @@ def multiply2Numbers(num1, num2)
     result = num1 * num2
     print('result is:', result)
 
-#print("hello world")
+#print("hello world
+
+def subtractNumber(num1):
+	result = num1 - 1
+	print('result: ', result)
